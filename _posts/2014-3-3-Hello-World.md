@@ -1,9 +1,7 @@
 ---
 layout: post
-title: First Post
+title: La question
 published: true
 ---
-
-# A first participation
 
 Hello everyone. This is a first collaboration.
